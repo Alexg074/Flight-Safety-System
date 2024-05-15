@@ -1,6 +1,3 @@
-# Flight-Safety-System
-
-
 # Program Setup and Execution Instructions
 
 ## Overview
