@@ -1,6 +1,7 @@
 # Flight Safety System (FSS) for Aircraft Automation
-# Authors: Mihai-Alexandru Georgescu, Emile Marchandise, Anastasia Soulele
-# May 2024
+
+*Authors: Mihai-Alexandru Georgescu, Emile Marchandise, Anastasia Soulele*  
+*May 2024*
 
 ## Project Overview
 The **Flight Safety System (FSS)** is an advanced embedded system project aimed at increasing aircraft safety through automation. Designed and developed in a collaborative team of 3 international students, this project leverages cutting-edge sensors and control mechanisms to enhance flight safety by automating critical maneuvers during flight.
