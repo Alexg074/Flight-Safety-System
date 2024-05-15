@@ -13,7 +13,7 @@ The **Flight Safety System (FSS)** is an advanced embedded system project aimed 
 - **Engine Control Management:** Adjusts engine power in response to changes in pitch and roll, enhancing the responsiveness and safety of the aircraft.
 
 ## Technical Highlights
-- **Embedded Systems Design:** Utilizes a Raspberry Pi interfaced which comes with multiple sensors to simulate real-time aircraft control.
+- **Embedded Systems Design:** Utilizes a Raspberry Pi pre-equipped with multiple sensors to simulate real-time aircraft control.
 - **Concurrency and Synchronization:** Implements threads synchronized with semaphores to ensure mutual exclusion and maintain system stability.
 - **Software Engineering Practices:** Adheres to the DO-178 standard, structuring and documenting the development process through comprehensive UML diagrams:
   - Requirements Diagram
